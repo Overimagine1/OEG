@@ -1,5 +1,5 @@
 #  How to Activate Windows 10/11!
--> *This is a [GuideHub](https://rentry.co/GuideHub) guide.* <-
+*This is a [GuideHub](https://github.com/Overimagine1/GuideHub) guide.*
 
 ⚠ Please disable any anti virus before doing this
 Some anti-viruses that aren't defender may interfere with the activation, so disable them just to be safe.
