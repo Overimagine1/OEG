@@ -5,4 +5,4 @@
 - [👾 Discord](https://discord.gg/nWWfBMtBSk)
 
 ## Guides
-- [🪟 ActivateWin10](https://rentry.co/activatewin10)
+- [🪟 ActivateWin10](https://github.com/Overimagine1/GuideHub/blob/main/Guides/ActivateWin10.md)
