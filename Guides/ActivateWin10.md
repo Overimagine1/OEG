@@ -1,10 +1,12 @@
 #  How to Activate Windows 10/11!
 *This is a [GuideHub](https://github.com/Overimagine1/GuideHub) guide.*
 
-⚠ Please disable any anti virus before doing this
-Some anti-viruses that aren't defender may interfere with the activation, so disable them just to be safe.
+⚠ Please disable any anti-virus before doing this
+
+Some anti-viruses that aren't defender may interfere with the activation, so disable them just to be safe. Windows Defender can be kept on though.
 
 ‼ You need an archive-extracting program for this
+
 Due to Window's archiver having no support for .7z files, you need to use a file extracting program, such as [7-zip](https://www.7-zip.org/).
 
 ##  🔐 The Tutorial
